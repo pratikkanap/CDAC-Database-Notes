@@ -20,3 +20,5 @@ It includes DDL, DML, joins, views, functions, procedures, and real-world databa
 ✔️ Triggers & Views
 
 ✔️ Sample real-time industry queries
+
+mysql --host=192.168.10.117 --port=3306 --user=dac1 --password=welcome
